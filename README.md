@@ -54,6 +54,6 @@ The table below indicates the performance of the TA-NAS in comparison with state
 ## Authors
 
 Cat P. Le (cat.le@duke.edu), 
-<br>Yi Zhou, 
-<br>Jie Ding, 
+<br>Mohammadreza Soltani, 
+<br>Robert Ravier, 
 <br>Vahid Tarokh
