@@ -35,7 +35,7 @@ python model_FUSE.py
 ```
 
 ### Results
-The confusion matrix below shows the distance matrix of 10 baseline tasks from MNIST, fashion-MNIST dataset.
+The confusion matrix below shows the distance matrix of 10 baseline tasks from MNIST, fashion-MNIST datasets.
 <p align="center">
   <img src="images/fig2.jpg" width="350" title="Distance Matrix">
 </p>
