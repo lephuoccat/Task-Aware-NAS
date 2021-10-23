@@ -29,7 +29,7 @@ python train_task.py
 ```
 python prune_transform.py
 ```
-Lastly, the FUSE algorithm is applied to find the suitable architecture for the incoming task:
+* Lastly, the FUSE algorithm is applied to find the suitable architecture for the incoming task:
 ```
 python model_FUSE.py
 ```
